@@ -1,0 +1,28 @@
+_repo: Een-verheugd-volk-en-een-jubelende-stad_36716
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36716-h/images/cover-t.jpg
+creator:
+  author:
+    agent_name: Sielof, Johanna Maria
+    aliases:
+    - Bressen, J.
+    - Sielof, J. M.
+    gutenberg_agent_id: '38439'
+    url: http://www.gutenberg.org/2009/agents/38439
+description: ''
+gutenberg_issued: '2011-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36716'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Juliana, Queen of the Netherlands, 1909-2004 -- Birth -- Fiction'
+- !lcsh 'Historical fiction'
+title: Een verheugd volk en een jubelende stad
+url: http://www.gutenberg.org/ebooks/36716
